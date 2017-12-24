@@ -1,0 +1,6 @@
+framework module Pods_swift_2048Tests {
+  umbrella header "Pods-swift-2048Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
